@@ -1,5 +1,5 @@
 require "yaml"
 
 def load_library
-hash = {"get_meaning"=> val, "get_emoticon" => val}
+hash = {"get_meaning"=> "Japanese emoticons", "get_emoticon" => "English emoticons"}
 end
