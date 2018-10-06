@@ -1,9 +1,9 @@
 require "yaml"
 
 def load_library
-hash = 
+hash =
 {
-  :get_meaning => "Japanese emoticons", 
+  :get_meaning => "Japanese emoticons",
   :get_emoticon => "English emoticons"
 }
 end
